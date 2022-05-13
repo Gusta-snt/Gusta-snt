@@ -1,8 +1,9 @@
 ### Olá, como vai? 👋
 
+- ✨ Meu nome é Gustavo, ou Gusta, como preferir :)
 - ☺️ Estou, atualmente, estudando HTML, CSS e JS
 - 🤔 Sou Técnico em Automação Industrial
-- 💖 Gosto muito de bots do discord
+- 🔥 Gosto muito de desafios
 
 <div align="center">
   <a href="https://github.com/Gusta-snt">
@@ -25,6 +26,6 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gustavo_santosfr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://youtube.com/channel/UCgkgbE1_iUgCPFsWvlI9laQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ <!--a href="https://youtube.com/channel/UCgkgbE1_iUgCPFsWvlI9laQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a--!>
  
 </div>
