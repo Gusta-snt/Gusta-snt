@@ -1,3 +1,5 @@
+<div align=center><img src="https://i.ibb.co/df2fJnM/favicon.png" alt="Project logo" align="center"></div>
+
 <h1>Hello, how are you? 👋</h1>
 
 - ✨ My name is Gustavo, but you can call me Gusta, as you wish :)
