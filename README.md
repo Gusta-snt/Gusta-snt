@@ -5,7 +5,7 @@
 <h1>Hello, how are you? 👋</h1>
 
 - ✨ My name is Gustavo, but you can call me Gusta, as you wish :)
-- ☺️ I'm curently learning JS and ReactJS,I alredy have a base of HTML and CSS.
+- ☺️ I'm curently learning JS, ReactJS and python,I alredy have a base of HTML and CSS.
 - 🤔 I'm an industrial automation technician, so, I know something about embedded systems (like Arduino) and electronics.
 - 🔥 I like challenges very much!
 
