@@ -8,7 +8,8 @@
 - ☺️ I'm curently learning the JS stack (NodeJS, ReactJS, React Native, Typescript) and some of Python too.
 - 😉 My wish is that become a Full-stack developer, and I'm working hard on it!
 - 🤔 I'm an industrial automation technician, so, I know something about embedded systems (like Arduino) and electronics.
-- 🔥 I like challenges very much!
+- 🐧 My computer has ZorinOS and Arch distributions of linux. I think these distributions are amazing!
+- 🔥 I love challenges so much!
 
 <div align="center">
   <a href="https://github.com/Gusta-snt">
