@@ -6,9 +6,9 @@
 
 - ✨ My name is Gustavo, but you can call me Gusta, as you wish :)
 - ☺️ I'm curently learning the JS stack (NodeJS, ReactJS, React Native, Typescript) and some of Python too.
-- 😉 My wish is that become a Full-stack developer, and I'm working hard on it!
-- 🤔 I'm an industrial automation technician, so, I know something about embedded systems (like Arduino) and electronics.
-- 🐧 My computer has ZorinOS and Arch distributions of linux. I think these distributions are amazing!
+- 😉 My wish is to become a Full-stack developer, and I'm working hard on it!
+- 🤔 I'm an industrial automation technician, so, I know something about embedded systems and electronics.
+- 🐧 I'm a linux user, and I think this is the best OS hahaha.
 - 🔥 I love challenges so much!
 
 <div align="center">
