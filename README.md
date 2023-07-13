@@ -7,8 +7,8 @@
 - ✨ My name is Gustavo, but you can call me Gusta, as you wish :)
 - ☺️ I'm curently learning the JS stack (NodeJS, ReactJS, React Native, Typescript) and some of Python too.
 - 😉 My wish is to become a Full-stack developer, and I'm working hard on it!
-- 🤔 I'm an industrial automation technician, so, I know something about embedded systems and electronics.
-- 🐧 I'm a linux user, and I think this is the best OS hahaha.
+- 🤔 I'm a industrial automation technician, so, I know something about embedded systems and electronics.
+- 🐧 I'm a linux user and I really like this Open Source world.
 - 🔥 I love challenges so much!
 
 <div align="center">
