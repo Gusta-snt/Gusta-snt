@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div align=center><img src="https://i.ibb.co/df2fJnM/favicon.png" alt="Main Logo" align="center"></div>
+<div align=center><img src="https://svgshare.com/i/xBB.svg" alt="Main Logo" align="center"></div>
 
 <h1>Hey, whats's up? 👋</h1>
 
