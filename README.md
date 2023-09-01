@@ -5,7 +5,7 @@
 <h1>Hey, whats's up? 👋</h1>
 
 - ✨ My name is Gustavo, but you can call me Gusta, as you wish :)
-- ☺️ I'm curently learning Java, ReactJS, SQL and Flutter.
+- ☺️ I'm curently learning ReactJS, SQL and NodeJS.
 - 😉 My wish is to become a Full-stack developer, and I'm working hard on it!
 - 🤔 I'm a industrial automation technician, so, I know something about embedded systems and electronics.
 - 🐧 I'm a linux user and I really like this Open Source world.
