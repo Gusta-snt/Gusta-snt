@@ -2,7 +2,7 @@
 
 <div align=center><img src="https://svgshare.com/i/xBB.svg" alt="Main Logo" align="center"></div>
 
-<h1>Hey, whats's up? 👋</h1>
+<h1>Hey, what's up? 👋</h1>
 
 - ✨ My name is Gustavo, but you can call me Gusta, as you wish :)
 - ☺️ I'm curently learning ReactJS, SQL and NodeJS.
