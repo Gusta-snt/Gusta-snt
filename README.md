@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-<div align=center><img src="https://svgshare.com/i/xBB.svg" alt="Main Logo" align="center"></div>
+<div align=center><img src="https://portfolio-v2-gustasnt.vercel.app/assets/logo-8ba5ff53.svg" alt="Main Logo" align="center"></div>
 
 <h1>Olá, eu sou o Gustavo Ferreira, ou Gusta.</h1>
 
